@@ -1,0 +1,6 @@
+# Copie este archivo como db.properties (en esta misma carpeta) y complete sus datos.
+# db.properties está excluido por .gitignore: NO publique credenciales reales en GitHub.
+
+db.url=jdbc:mysql://localhost:3306/examen_progra3?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=America/Costa_Rica
+db.usuario=root
+db.clave=CAMBIAR

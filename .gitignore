@@ -1,0 +1,41 @@
+# Maven
+target/
+
+# Compilados
+*.class
+*.jar
+*.war
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse / VS Code
+.classpath
+.project
+.settings/
+.vscode/
+bin/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Comprimidos
+*.zip
+*.rar
+*.7z
+
+# Credenciales locales de base de datos (NO publicar)
+db.properties
+!db.properties.example
+.env
